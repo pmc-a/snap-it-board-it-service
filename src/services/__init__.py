@@ -1,0 +1,1 @@
+from services.image import handle_image_upload
